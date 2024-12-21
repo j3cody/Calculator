@@ -1,0 +1,54 @@
+ *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+ }
+ #all{
+    height: 10000px;
+    color: black;
+    background-color: rgb(92, 92, 183);
+
+
+ }
+ #heading{
+    padding-top: 10px;
+    height: 160px;
+    
+    align-items: center;
+    text-align: center;
+    color: rgb(14, 31, 87);
+   
+    font-size: 3rem;
+ }
+ .container{
+   
+    height: 500px;
+   
+    padding-top : 10px;
+    font-size: 2rem;
+    align-items: center;
+    text-align: center;
+    
+
+ }
+ input{
+    background-color: rgba(0, 255, 255, 0.688);
+ }
+ #place{
+    text-align: right;
+    height: 60px;
+    width: 400px;
+    font-size: 30px;
+    color: rgba(205, 12, 44, 0.874);
+ }
+ #butt{
+    height: 90px;
+    width: 90px;
+    font-size: 26px;
+    background-color: rgb(108, 15, 102);
+    border-radius: 100%;
+    margin-top: 10px;
+    color: aqua;
+ }
+ 
